@@ -1,5 +1,0 @@
-Express: Es un marco (framework) para Node.js, facilita crear servidores y rutas.
-
-Diferencia: Node.js es el entorno que ejecuta JavaScript fuera del navegador; Express es una herramienta que se usa dentro de Node.js para simplificar el trabajo.
-
-Para qué sirve: Para crear aplicaciones web, APIs y manejar peticiones/respuestas de forma rápida y ordenada.
