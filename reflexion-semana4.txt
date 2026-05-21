@@ -1,0 +1,8 @@
+Es fundamental que comunidades e iniciativas ciudadanas construyan sus propias herramientas con tecnologias abiertas
+como Node.js, porque les da autonomia total: no dependen de empresas externas, no pagan licencias y adaptan todo a sus necesidades reales.
+Al ser codigo abierto, cualquiera puede aprenderlo ,usarlo y modificarlo, lo que reduce brechas digitales y costos.
+Promueve transparencia y confianza ,porque todo es visible y revisable.
+Tambien fomenta el trabajo colaborativo: se mejora entre todos y se comparte conocimiento.
+La tecnologia deja de ser algo lejano y pasa a ser herramientas propias para resolver problemas locales.
+Fortalece la soberania tecnologica y da poder real a la gente para transformar su entorno.
+Es inclusivo y acesible ,permitiendo que cualquiera participe.
