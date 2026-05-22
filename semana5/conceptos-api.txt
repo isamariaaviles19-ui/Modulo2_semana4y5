@@ -1,0 +1,3 @@
+Esta ruta recibe información que el usuario envía, la lee y responde confirmando que llegó el dato. A diferencia de otras, aquí los datos no se ven en la dirección web, es más seguro.
+
+En una aplicación comunitaria serviría para que las personas envíen reportes de problemas, alertas o solicitudes, permitiendo registrar información de forma ordenada y privada sin exponer los datos públicamente.

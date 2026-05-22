@@ -1,0 +1,6 @@
+Las APIs permiten conectar diferentes herramientas y sistemas entre sí, lo que ayuda mucho a las comunidades para compartir información de forma organizada. 
+Por ejemplo, se puede crear una API que reciba reportes desde celulares, y que esa misma información se pueda ver luego en un mapa, una lista o un tablero. 
+Así toda la información queda guardada en un solo lugar y cualquier herramienta autorizada puede consultarla. 
+Ayuda a que los datos estén siempre actualizados y accesibles para todos. 
+Facilita el intercambio de avisos, alertas o recursos disponibles sin depender de una sola aplicación.
+Hace que la información fluya rápido, segura y ordenada.
